@@ -10,6 +10,8 @@ En este gitHub podrás encontrar todos los archivos que utilizo en mi serie de t
 ## Enlaces de utilidad:
 Serie en Youtube: https://bit.ly/Danymaddox
 
+Discord: https://bit.ly/Danymaddox
+
 Enlace directo a este repositorio: https://github.com/Danymaddox/ComoHacerUnModpack
 
 Wiki de KubeJS: https://kubejs.com/wiki
